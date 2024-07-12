@@ -45,7 +45,7 @@ The results indicated that regression models, particularly the Random Forest and
 
 - [Stanislav Teghipco](https://github.com/Staffilon)
 - [Luca Bianchi](https://github.com/yourprofile)
-- [Federico Cruciani](https://github.com/yourprofile)
+- [Federico Maria Cruciani](https://github.com/Fedcmm)
 - [Hector](https://github.com/yourprofile)
 
 ## License
